@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is revert fil
 this is second revert 
 and this is second commit
+=======
+This is revert file
+>>>>>>> parent of 0f7bc43 (This is second commit)
