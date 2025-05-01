@@ -1,4 +1,2 @@
 This is revert fil
-
-and this is second commI
-Third time change 
+and this is second commit
